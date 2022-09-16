@@ -1,1 +1,1 @@
-# SnakeGame-com-Pygame usando o Jupiter Notebook
+# SnakeGame-com-Pygame usando o Jupyter Notebook
